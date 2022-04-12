@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "JSObject1",
-    "pageId": "Page1 Copy1",
+    "name": "JSObject1Copy",
+    "pageId": "new page",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +9,7 @@
     "body": "export default {\n\tmyFun1: () => {\n\t\tlet a = 10\n\t\tlet b = 20 \n\t\tconst sum = a + b ;\n\t\treturn sum ;\n\t}}",
     "variables": []
   },
-  "id": "Page1 Copy1_JSObject1",
+  "id": "new page_JSObject1Copy",
   "deleted": false,
-  "gitSyncId": "6254e857ced2487c81caafcf_6254e903ced2487c81caaff4"
+  "gitSyncId": "6254e937ced2487c81caaffd_6254e990ced2487c81cab019"
 }
