@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Page1 Copy1",
+    "slug": "page1-copy1",
     "layouts": [
       {
         "viewMode": false,
@@ -69,7 +69,7 @@
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Page1 Copy1",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -80,5 +80,5 @@
   },
   "deleted": false,
   "policies": [],
-  "gitSyncId": "6254e857ced2487c81caafcf_6254e857ced2487c81caafd1"
+  "gitSyncId": "6254e857ced2487c81caafcf_6254e903ced2487c81caaff0"
 }
